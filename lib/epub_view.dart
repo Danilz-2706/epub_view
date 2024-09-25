@@ -1,4 +1,3 @@
-export 'package:epubx/epubx.dart';
 
 export 'src/ui/actual_chapter.dart';
 export 'src/ui/epub_view.dart';
