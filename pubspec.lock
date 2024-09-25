@@ -110,7 +110,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "67a818a7d00a27e6cc745eb43c0db0f1eed75dfa"
+      resolved-ref: "509b7e6d75a7cb95dc3569c9f02a524d18615ada"
       url: "https://github.com/Danilz-2706/epubx.git"
     source: git
     version: "4.0.0"
