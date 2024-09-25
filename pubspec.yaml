@@ -7,9 +7,7 @@ environment:
   sdk: ">=3.2.0 <4.0.0"
 
 dependencies:
-  epubx:
-    git:
-      url: https://github.com/Danilz-2706/epubx.dart-dev.git
+  
   equatable: ^2.0.5
   html: ^0.15.4
   flutter_html: ^3.0.0-beta.2
@@ -21,6 +19,9 @@ dependencies:
 
 dev_dependencies:
   flutter_lints: ^3.0.1
+  epubx:
+    git:
+      url: https://github.com/Danilz-2706/epubx.git
   flutter_test:
     sdk: flutter
   test: ^1.16.7
